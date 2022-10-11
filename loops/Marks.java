@@ -1,3 +1,11 @@
+/*
+ * demonstrate if -else statement of 5 subject the person who get
+ * above 60% will be passed otherwise failed output should be like
+ * enter your name .enter marks for the 5 subjects.
+ * from the user 
+ * date:- 11/10/22
+ */
+
 package loops;
 	
 //Java Program to Enter Marks of Five Subjects
