@@ -1,4 +1,11 @@
-	// Java Program to print the multiplication table of the
+/*
+ * Print any multiplication table using for loop take the input
+ * from the user 
+ * date:- 11/10/22
+ */
+
+
+// Java Program to print the multiplication table of the
 	// number N.
 package loops;
 import java.util.Scanner;
