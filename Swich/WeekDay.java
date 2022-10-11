@@ -11,10 +11,11 @@ import java.util.Scanner;
 public class WeekDay {
 	public static void main(String[] args) {
 		// take input form the User.
+		int ND=0;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Ente the Number(1-7) :");
 
-		int ND = sc.nextInt();
+		 ND = sc.nextInt();
 		switch (ND) {
 		case 1:
 
