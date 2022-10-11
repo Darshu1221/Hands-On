@@ -1,5 +1,6 @@
-//**Program to demonstrate(Switch) asnd printing week days
-
+/**Program to demonstrate(Switch) asnd printing week days
+* date:- 11/10/22
+*/
 
 
 package Swich;
