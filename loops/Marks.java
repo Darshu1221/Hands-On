@@ -1,6 +1,6 @@
 package loops;
 	
-//Java Program to Enter Marks of Five Subjects and Calculate Total, Percentage, and Grade
+//Java Program to Enter Marks of Five Subjects
 
 import java.util.Scanner;
  class Marks {
