@@ -1,3 +1,9 @@
+/*
+ * Test whether the person is eligible to give vote using if -else
+ * date:- 11/10/22
+ */
+
+
 package loops;
 //Java program to check vote eligibility 
 import java.util.Scanner;
