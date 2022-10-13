@@ -5,11 +5,11 @@
 
 
 
-public class SumOfNaturalNumber2  
+public class SumOfNaturalNum
 {  
 public static void main(String[] args)   
 {  
-int num = 100, i = 1, sum = 0;  
+int num = 10, i = 1, sum = 0;  
 //executes the condition  
  
 while(i <= num)  
@@ -20,6 +20,6 @@ sum = sum + i;
 i++;  
 }  
 //prints the sum   
-System.out.println("Sum of First 100 Natural Numbers is = " + sum);  
+System.out.println("Sum of First 10 Natural Numbers is = " + sum);  
 }  
 }  
