@@ -1,7 +1,7 @@
 /*Write a program demonstrate on nested if.Take the
 *Input from the user
 *Date :- 13/10/2022
-/*
+*/
 
 import java.util.Scanner;
 public class Grade {
